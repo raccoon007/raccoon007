@@ -1,12 +1,17 @@
-# Hi there 👋 
+# Hi there! 👋
 
-I'm Anna and I'm starting Data Analyst 👩‍💻
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/rqd9R3yaDy16a8kDC1/giphy.gif" width="100"/> 
+</div>
+
+I'm Anna and I'm starting Data Analyst
 
 I love numbers, I can understand them and look for dependencies. <br /> Now I'm looking for a job, so I hope my projects will be interesting for you 🤞
+
 <!--
 **raccoon007/raccoon007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -38,8 +43,16 @@ Here are some ideas to get you started:
 - 👩‍💻 **Data Analyst**
 - 📆 Feb.2022 - Dec.2022
 - 📍 **Yandex.Praktikum, St.Petersburg**
+  
+## Skills
+
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+</p>
 
 </details>
+
 
 
 # Stay in touch ✍️
@@ -50,3 +63,6 @@ Here are some ideas to get you started:
 <a href="https://t.me/amanuylova">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
+
+
+
