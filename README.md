@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/rqd9R3yaDy16a8kDC1/giphy.gif" width="100"/> 
 </div>
 
-I'm Anna and I'm starting Data Analyst
+I'm Anna and I'm Junior Data Analyst
 
 I love numbers, I can understand them and look for dependencies. <br /> Now I'm looking for a job, so I hope my projects will be interesting for you 🤞
 
