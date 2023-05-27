@@ -1,10 +1,10 @@
-# Hi there! 👋
-
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/rqd9R3yaDy16a8kDC1/giphy.gif" width="100"/> 
+  <img src="https://media.giphy.com/media/rqd9R3yaDy16a8kDC1/giphy.gif" width="150"/> 
 </div>
 
-I'm Anna and I'm Junior Data Analyst
+# Hi there! 👋 I'm Anna 
+
+I'm Junior Data Analyst.
 
 I love numbers, I can understand them and look for dependencies. <br /> Now I'm looking for a job, so I hope my projects will be interesting for you 🤞
 
@@ -22,6 +22,13 @@ Here are some ideas to get you started:👋
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Skills
+
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+</p>
 
 <details>
   <summary>📃 Resume</summary>
@@ -43,19 +50,10 @@ Here are some ideas to get you started:👋
 - 👩‍💻 **Data Analyst**
 - 📆 Feb.2022 - Dec.2022
 - 📍 **Yandex.Praktikum, St.Petersburg**
-  
-## Skills
-
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-</p>
 
 </details>
 
-
-
-# Stay in touch ✍️
+# Stay in touch
 📬 agurina11@yandex.ru
 
 📜 [hh.ru](https://spb.hh.ru/applicant/resumes/view?resume=c200f342ff0b58e1640039ed1f316745754363)
