@@ -42,7 +42,7 @@ Here are some ideas to get you started:👋
  ## Courses
 
 - 🎓 **Data Analyst**
-- 📆 Feb.2022 - Dec.2022
+- 📆 Jun.2022 - Dec.2022
 - 📍 **Yandex.Praktikum, St.Petersburg**
   
 ## Experience
